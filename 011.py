@@ -2,7 +2,7 @@
 Crie um programa que leia o nome completo de uma pessoa e mostre:
 O nome com todas as letras maiúsculas
 O nome com todas minúsculas
-Quantas letras ao todo (sem considerar os espaços)
+Quantas letras no geral (sem considerar os espaços)
 Quantas letras tem o primeiro nome
 '''
 from funcoes import saudacoes
